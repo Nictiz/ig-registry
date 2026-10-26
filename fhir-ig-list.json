@@ -10660,10 +10660,10 @@
     "product" : ["fhir"],
     "editions" : [{
       "name" : "1.0.0",
-      "ig-version" : "1.0.0-alpha.1",
-      "package" : "nictiz.nl.gbb#1.0.0-alpha.1",
+      "ig-version" : "1.0.0-alpha.2",
+      "package" : "nictiz.nl.gbb#1.0.0-alpha.2",
       "fhir-version" : ["4.0.1"],
-      "url" : "http://ig.nictiz.nl/gbb/1.0.0-alpha.1"
+      "url" : "http://ig.nictiz.nl/gbb/1.0.0-alpha.2"
     }]
   },
   {
