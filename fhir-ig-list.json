@@ -10703,10 +10703,10 @@
     "editions": [
       {
         "name": "1.0.0",
-        "ig-version": "1.0.0-alpha.1",
-        "package": "nictiz.nl.az#1.0.0-alpha.1",
+        "ig-version": "1.0.0-beta.1",
+        "package": "nictiz.nl.az#1.0.0-beta.1",
         "fhir-version": ["4.0.1"],
-        "url": "http://ig.nictiz.nl/az/1.0.0-alpha.1"
+        "url": "http://ig.nictiz.nl/az/1.0.0-beta.1"
       }
     ]
   },
